@@ -1,0 +1,7 @@
+  To Image
+  filter: grayscale(100%); /* Converts the image to black and white */
+  transition: filter 0.5s ease; /* Add transition for smooth effect */
+ To Hover
+  .hero-image:hover {
+  filter: none; /* Removes the grayscale filter on hover */
+}
